@@ -1,4 +1,3 @@
 
-print("new")
-print("new_new")
+print("new is trending")
 
